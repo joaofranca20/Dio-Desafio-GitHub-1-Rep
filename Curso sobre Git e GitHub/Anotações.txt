@@ -2,4 +2,4 @@ O Git Bash foi o terminal que mais utilizei.
 
 É um pouco confuso no começo, mas depois fica claro.
 
-Os comandos que eu mais utilizei foram: git add, git commit, git status, git push, git clone, clear e git init.
+Os comandos que eu mais utilizei foram: git add, git commit, git status, git push, git clone e o clear.
