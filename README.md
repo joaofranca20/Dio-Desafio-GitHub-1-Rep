@@ -1,4 +1,4 @@
-# Introdução ao projeto sobre Git/GitHub.
+# Introdução ao projeto sobre Git e GitHub.
 Repositório de preparação para o desafio sobre Git/GitHub proposto pela DIO/GFT Start Java.
 
 ## Links úteis
