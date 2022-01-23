@@ -1,0 +1,3 @@
+O Git Bash foi o terminal que mais utilizei.
+
+É um pouco confuso no começo, mas depois fica claro.
