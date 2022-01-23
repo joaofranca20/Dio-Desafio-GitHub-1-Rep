@@ -1,4 +1,4 @@
-# Desafio de projeto sobre Git/Github.
+# Desafio de projeto sobre Git/GitHub.
 Repositório do desafio sobre Git/GitHub proposto pela DIO/GFT Start Java.
 
 ## Links úteis
